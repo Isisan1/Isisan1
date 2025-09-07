@@ -1,4 +1,4 @@
-<img src="https://github.com/Isisan1/Isisan1/blob/main/assets/Isissa1%20QA%20way.png?raw=true" alt="Header" width="850" height="110">
+<"https://raw.githubusercontent.com/Isisan1/Isisan1/148c7e48f861d20cdb92cbbd0e21f6f2dae99c98/assets/Isissa1%20QA%20way%20(2).png">
 
 About me
 
