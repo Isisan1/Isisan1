@@ -5,6 +5,7 @@ I am learning software testing, checking functionality, and finding bugs in real
 Looking to grow in the profession and gain practical experience on real projects.
 
 ### Languages and Tools
+![Jira](https://img.shields.io/badge/-Jira-D2E83?style=for-the-badge&logo=jira&logoColor=white)
 ![Qase](https://img.shields.io/badge/-Qase-2D2E83?style=for-the-badge&logo=qase&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
