@@ -17,6 +17,6 @@ Looking to grow in the profession and gain practical experience on real projects
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Follow Me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/zheenbekov4)
 
 
